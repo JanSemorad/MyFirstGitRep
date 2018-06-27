@@ -14,6 +14,6 @@ Try&amp;Learn
 </table>
 
 Reference-style: 
-![alt text][logo]
+![alt text][lego]
 
-[logo]: https://www.e-chujoviny.cz/405-large_default/nocni-kosile-s-cepickou-slibim-ti-cokoliv.jpg "COKOLIV"
+[lego]: https://www.e-chujoviny.cz/405-large_default/nocni-kosile-s-cepickou-slibim-ti-cokoliv.jpg "COKOLIV"
