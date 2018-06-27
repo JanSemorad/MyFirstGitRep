@@ -21,4 +21,4 @@ Inline-style:
 Reference-style: 
 ![alt text][logo]
 
-[logo]: https://www.e-chujoviny.cz/405-large_default/nocni-kosile-s-cepickou-slibim-ti-cokoliv.jpg "COKOLIV"
+[hugo]: https://www.e-chujoviny.cz/405-large_default/nocni-kosile-s-cepickou-slibim-ti-cokoliv.jpg "COKOLIV"
