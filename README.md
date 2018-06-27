@@ -30,9 +30,11 @@ context, I will be happy to see the wording here. THX very much - because I am
 [Beginnings:](https://groups.google.com/forum/#%21searchin/angular/business$20proces$20javascript$20async$20library$20-$20consistent$20business%7Csort:date/angular/c8h0eVEZO1o/YemDx-wH1DEJ)
 <br />
 <br />
+  
 ![alt text][bpmjs]
 
 [bpmjs]: http://semorad.aspone.cz/BPM/bpmjs.png "BPMJS"
+
 </p>
 
 
