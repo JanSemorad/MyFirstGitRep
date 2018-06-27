@@ -15,8 +15,8 @@ Try&amp;Learn
 
 [I'm an inline-style link](https://groups.google.com/forum/#%21searchin/angular/business$20proces$20javascript$20async$20library$20-$20consistent$20business%7Csort:date/angular/c8h0eVEZO1o/YemDx-wH1DEJ)
 
-![alt text][lego]
+![alt text][bpmjs]
 
-[lego]: https://www.kulturniportal.cz/fotky/1508/1.jpg "COKOLIV"
+[bpmjs]: http://semorad.com/janosemo_work/public/BPMN/bpmjs.png "BPMJS"
 
 
