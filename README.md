@@ -17,6 +17,6 @@ Try&amp;Learn
 
 ![alt text][bpmjs]
 
-[bpmjs]: http://semorad.com/janosemo_work/public/BPMN/bpmjs.png "BPMJS"
+[bpmjs]: https://semorad.com/janosemo_work/public/BPMN/bpmjs.png "BPMJS"
 
 
