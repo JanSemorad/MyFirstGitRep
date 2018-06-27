@@ -12,13 +12,8 @@ Try&amp;Learn
   <tr><td>c</td><td>d</td></tr>
   <tr><td>c</td><td>d</td></tr>
 </table>
-Images
-Here's our logo (hover to see the title text):
-
-Inline-style: 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
 Reference-style: 
 ![alt text][logo]
 
-[hugo]: https://www.e-chujoviny.cz/405-large_default/nocni-kosile-s-cepickou-slibim-ti-cokoliv.jpg "COKOLIV"
+[logo]: https://www.e-chujoviny.cz/405-large_default/nocni-kosile-s-cepickou-slibim-ti-cokoliv.jpg "COKOLIV"
