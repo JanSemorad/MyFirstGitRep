@@ -31,6 +31,7 @@ context, I will be happy to see the wording here. THX very much - because I am
 <br />
 <br />
   
+Today:  
 ![alt text][bpmjs]
 
 [bpmjs]: http://semorad.aspone.cz/BPM/bpmjs.png "BPMJS"
